@@ -1,4 +1,4 @@
-[Profileviews](https://komarev.com/ghpvc/?username=your-github-Adi1042003&style=plastic)
+![Profileviews](https://komarev.com/ghpvc/?username=your-github-Adi1042003&style=plastic)
 # 💫 About Me: 
  🔭 I’m currently Learning<br>💬 Contact me at: Adityapuri@ieee.org<br>⚡ Fun fact about me: Besides coding, I also love circuit Debugging. 
   
