@@ -1,5 +1,5 @@
 # 💫 About Me: 
- 🔭 I’m currently Learning<br>💬 Contact me at: Adityapuri@ieee.org<br>⚡ Fun fact about me: besides coding, I also circuit Debugging. 
+ 🔭 I’m currently Learning<br>💬 Contact me at: Adityapuri@ieee.org<br>⚡ Fun fact about me: besides coding, I also love circuit Debugging. 
   
   
  ## 🌐 Socials: 
