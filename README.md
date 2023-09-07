@@ -9,7 +9,7 @@
  # 💻 Tech Stack:
 ![MATLAB](https://img.shields.io/badge/MATLAB-2021b-orange.svg?style=plastic&logo=matlab&logocolor=orange)
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Verilog](https://img.shields.io/badge/Verilog-Active-brightgreen)
+![Verilog](https://img.shields.io/badge/Verilog-Active-brightgreen.svg?style=plastic)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://adi1042003.github.io/mywebpage/index.html)
  # 📊 GitHub Stats: 
  ![](https://github-readme-stats.vercel.app/api?username=Adi1042003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
