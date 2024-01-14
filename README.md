@@ -19,8 +19,9 @@
  ## 🏆 GitHub Trophies 
  ![](https://github-profile-trophy.vercel.app/?username=Adi1042003&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
   
- ### ✍️ Random Dev Quote 
- ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko) 
+<div align="center">
+        <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZrZGwzMGczMW1oamRlaXVwbmZ1Mm9kc2lnbGtncmF3azA0MnhpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+</div>
   
  ### 🔝 Top Contributed Repo 
  ![](https://github-contributor-stats.vercel.app/api?username=Adi1042003&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) 
